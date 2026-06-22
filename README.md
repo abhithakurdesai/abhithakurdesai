@@ -1,16 +1,13 @@
-## Hi there 👋
+### Abhishek Thakurdesai
 
-<!--
-**abhithakurdesai/abhithakurdesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I architect AI systems for evidence synthesis and clinical development at Eli Lilly —
+protocol-anchored screening, multimodal extraction from trial literature, and
+digital-twin simulation for trial design.
 
-Here are some ideas to get you started:
+**Current builds:**
+- [CIPHER](https://github.com/EliLillyCo/cipher) — evidence curation platform with deterministic screening, LLM judgment at the edges, and signed provenance
+- [Digital Twin AI Agent](https://github.com/EliLillyCo/digital-twin-ai-agent) — synthetic control arm generation for single-arm trial augmentation
+- [BATMAN+ AI Agent](https://github.com/EliLillyCo/batman-plus-ai-agent) — automated network meta-analysis pipeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Design principles I build around: evaluation-first (no model ships without a regression gate),
+deterministic core with LLM only where humans disagree, and provenance as a first-class citizen.
